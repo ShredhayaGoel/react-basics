@@ -12,7 +12,7 @@ const App = () => {
       <Usercard name="Shredhaya Goel" />
       <Usercard
         name="Shredhaya Goel "
-        image={image}
+        image1={image}
         desc={"hello I am SHREDHAYA GOEL"}
       />
       <Usercard name="Shredhaya Goel" image={me} />
