@@ -7,6 +7,10 @@ const App = () => {
   return (
     <div>
       <h1>hello </h1>
+      <h1 class="text-3xl font-bold underline bg-sky-400 text-yellow-300 ">
+        hello world!
+      </h1>
+
       <Usercard name="Shredhaya Goel" />
       <Usercard name="Shredhaya Goel" />
       <Usercard name="Shredhaya Goel" />
